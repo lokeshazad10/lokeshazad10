@@ -1,21 +1,23 @@
-<h1 align="left">Hi 👋, I'm lokesh azad</h1>
+<h1 align="left">Hi 👋, I'm <span style="color: aqua;">lokesh azad</span></h1>
 <h3 align="left">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshazad10&label=Profile%20views&color=0e75b6&style=flat-square" alt="lokeshazad10" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokeshazad10" alt="lokeshazad10" /></a> </p>
+<hr>
+<h2>- 🌱 I’m currently learning **React and Databases**<h2>
 
-- 🌱 I’m currently learning **React and Databases**
+<h2>- 👯 I’m looking to collaborate on **Fullstack projects**<h2>
 
-- 👯 I’m looking to collaborate on **Fullstack projects**
+<h2>- 💬 Ask me about **JavaScript, C, C++**<h2>
 
-- 💬 Ask me about **JavaScript, C, C++**
+<h2>- 📫 How to reach me **lokeshazad10@gmail.com**<h2>
 
-- 📫 How to reach me **lokeshazad10@gmail.com**
+<h2>- 📄 Know about my experiences [blank](blank)<h2>
 
-- 📄 Know about my experiences [blank](blank)
+<h2>- ⚡ Fun fact **I love Technology**<h2>
 
-- ⚡ Fun fact **I love Technology**
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
