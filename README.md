@@ -5,20 +5,20 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokeshazad10" alt="lokeshazad10" /></a> </p>
 <hr>
-<h3>- 🌱 I’m currently learning **React and Databases**<h3>
+- 🌱 I’m currently learning **React and Databases**
 
-<h3>- 👯 I’m looking to collaborate on **Fullstack projects**<h3>
+- 👯 I’m looking to collaborate on **Fullstack projects**
 
-<h3>- 💬 Ask me about **JavaScript, C, C++**<h3>
+- 💬 Ask me about **JavaScript, C, C++**
+  
+- 📫 How to reach me **lokeshazad10@gmail.com**
 
-<h3>- 📫 How to reach me **lokeshazad10@gmail.com**<h3>
+- 📄 Know about my experiences [blank](blank)
 
-<h3>- 📄 Know about my experiences [blank](blank)<h3>
-
-<h3>- ⚡ Fun fact **I love Technology**<h3>
+- ⚡ Fun fact **I love Technology**
 
 
-
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lokesh aazad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokesh aazad" height="30" width="40" /></a>
