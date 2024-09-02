@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokeshazad10" alt="lokeshazad10" /></a> </p>
 <hr>
+
 - 🌱 I’m currently learning **React and Databases**
 
 - 👯 I’m looking to collaborate on **Fullstack projects**
