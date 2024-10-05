@@ -18,7 +18,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokeshazad10" alt="lokeshazad10" /></a> </p>
 <hr>
 <h3>Hacktoberfest Badge</h3>
-[![An image of @lokeshazad10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lokeshazad10)](https://holopin.io/@lokeshazad10)
+<img src="https://assets.holopin.io/hf2024levels/level0-sloth-hello-0-0-0-0.webp" />
+[(https://holopin.me/lokeshazad10)(https://holopin.io/@lokeshazad10)]
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
