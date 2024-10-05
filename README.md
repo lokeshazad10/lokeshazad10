@@ -17,6 +17,7 @@
 <hr>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokeshazad10" alt="lokeshazad10" /></a> </p>
 <hr>
+<h3>Hacktoberfest Badge</h3>
 <img src="https://assets.holopin.io/hf2024levels/sloth-hello-0-0-0-0.webp" height="200px" width="200px" />
 <hr>
 <h3 align="left">Connect with me:</h3>
