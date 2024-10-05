@@ -2,8 +2,6 @@
 <h3 align="left">A passionate Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshazad10&label=Profile%20views&color=0e75b6&style=flat-square" alt="lokeshazad10" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokeshazad10" alt="lokeshazad10" /></a> </p>
 <hr>
 
 - 🌱 I’m currently learning **React and Databases**
@@ -19,6 +17,8 @@
 - ⚡ Fun fact **I love Technology**
 
 
+<hr>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokeshazad10" alt="lokeshazad10" /></a> </p>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
