@@ -19,6 +19,8 @@
 <hr>
 <h3>Hacktoberfest Badge</h3>
 <img src="https://assets.holopin.io/hf2024levels/level0-sloth-hello-0-0-0-0.webp" height="200px" width="200px"/>
+<img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-coffee-0-0-0.webp" height="200px" width="200px"/>
+<img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-coffee-robe-0-0.webp" height="200px" width="200px"/>
 <a href="https://holopin.io/@lokeshazad10" target="_blank">Holopin Profile</a>
 <hr>
 <h3 align="left">Connect with me:</h3>
