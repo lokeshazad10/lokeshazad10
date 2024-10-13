@@ -22,6 +22,7 @@
   <img src="https://assets.holopin.io/hf2024levels/level0-sloth-hello-0-0-0-0.webp" height="200px" width="200px" style="margin: 0 10px;"/>
   <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-coffee-0-0-0.webp" height="200px" width="200px" style="margin: 0 10px;"/>
   <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-coffee-robe-0-0.webp" height="200px" width="200px" style="margin: 0 10px;"/>
+  <img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-coffee-robe-witch-0.webp" height="200px" width="200px" style="margin: 0 10px;"/>
 </div>
 <a href="https://holopin.io/@lokeshazad10" target="_blank">Holopin Profile</a>
 <hr>
