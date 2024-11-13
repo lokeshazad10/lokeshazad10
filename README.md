@@ -42,3 +42,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lokeshazad10&show_icons=true&locale=en" alt="lokeshazad10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshazad10&" alt="lokeshazad10" /></p>
+
+
+<p>this is lokesh azad's github profile.</p>
