@@ -43,5 +43,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshazad10&" alt="lokeshazad10" /></p>
 
-
-<p>this is lokesh azad's github profile.</p>
