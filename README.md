@@ -17,16 +17,6 @@
 <hr>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokeshazad10" alt="lokeshazad10" /></a> </p>
 <hr>
-<h3>Hacktoberfest Badge</h3>
-<div style="display: flex">
-  <img src="https://assets.holopin.io/hf2024levels/level0-sloth-hello-0-0-0-0.webp" height="200px" width="200px" style="margin: 0 10px;"/>
-  <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-coffee-0-0-0.webp" height="200px" width="200px" style="margin: 0 10px;"/>
-  <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-coffee-robe-0-0.webp" height="200px" width="200px" style="margin: 0 10px;"/>
-  <img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-coffee-robe-witch-0.webp" height="200px" width="200px" style="margin: 0 10px;"/>
-  <img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-coffee-robe-witch-eclipse.webp" height="200px" width="200px" style="margin: 0 10px;"/>
-</div>
-<a href="https://holopin.io/@lokeshazad10" target="_blank">Holopin Profile</a>
-<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lokesh aazad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokesh aazad" height="30" width="40" /></a>
