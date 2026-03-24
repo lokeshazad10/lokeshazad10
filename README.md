@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I love Technology**
 <hr>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokeshazad10" alt="lokeshazad10" /></a> </p>
+<p align="left"> <a href="https://github.com/lokeshazad10"><img src="https://github-profile-trophy.vercel.app/?username=lokeshazad10" alt="lokeshazad10" /></a> </p>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
