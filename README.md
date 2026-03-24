@@ -15,8 +15,6 @@
 
 - ⚡ Fun fact **I love Technology**
 <hr>
-<p align="left"> <a href="https://github.com/lokeshazad10"><img src="https://github-profile-trophy.vercel.app/?username=lokeshazad10" alt="lokeshazad10" /></a> </p>
-<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lokesh aazad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokesh aazad" height="30" width="40" /></a>
