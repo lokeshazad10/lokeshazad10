@@ -23,9 +23,6 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/lokeshazad10">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lokeshazad10&cache_seconds=7200&layout=compact&theme=vue&border_radius=10" alt="lokeshazad10's GitHub Stats" />
-  </a>
   <img src="https://streak-stats.demolab.com/?user=lokeshazad10&theme=vue&hide_border=true&cache_seconds=86400" alt="lokeshazad10's GitHub Streak" width="49%" />
 </p>
 <p align="center">
@@ -35,7 +32,6 @@
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=lokeshazad10&theme=vue&radius=10" alt="lokeshazad10's Activity Graph" />
 </p>
 <div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
 
 
@@ -96,14 +92,9 @@
   <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
 
 </p>
-
-<p align="center">
-  <a href="https://github.com/lokeshazad10">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lokeshazad10&langs_count=8&layout=compact&theme=vue&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-![Top language](https://stats.pphat.top/languages?username=lokeshazad10)
+<br/>
+<h1 align="center">Top Languages</h1>
+<img src="https://stats.pphat.top/languages?username=lokeshazad10">
 <br/>
 
 ## 🔗 Connect with Me
