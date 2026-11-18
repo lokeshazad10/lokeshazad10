@@ -99,11 +99,17 @@
 
 ## 🔗 Connect with Me
 <p align="center">
+  <a href="https://instagram.com/developer_lokesh">
+    <img src="https://www.svgrepo.com/show/303145/instagram-2-1-logo.svg" alt="Instagram" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@developer_lokesh">
+    <img src="https://www.svgrepo.com/show/475700/youtube-color.svg" alt="YouTube" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/lokeshazad10">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/DevLokeshAzad">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="Twitter" width="40" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:developerlokeshwork@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
