@@ -3,13 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshazad10&label=Profile%20views&color=0e75b6&style=flat-square" alt="lokeshazad10" /> </p>
 <hr>
-- 🌱 I’m currently learning **System Design**
 
-- 👯 I’m looking to collaborate on **Fullstack projects**
+- 🌱 I’m currently learning **_System Design_**
 
-- 💬 Ask me about **JavaScript, C, C++, System Design, **
+- 👯 I’m looking to collaborate on **_Fullstack projects_**
+
+- 💬 Ask me about **_JavaScript, C, C++, System Design_**
   
-- 📫 How to reach me **developerlokeshwork@gmail.com**
+- 📫 How to reach me **_developerlokeshwork@gmail.com_**
 
 - ⚡ Fun fact **I love Technology**
 <hr>
