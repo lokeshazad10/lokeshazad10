@@ -35,6 +35,24 @@
 
 ## 🛠️ Languages & Tools
 
+<h3 align="center">AI Tools and Agents</h3>
+<p align="center">
+  <img src="https://github.com/lokeshazad10/lokeshazad10/blob/main/assets/chat-gpt.webp" alt="chatgpt" width="80" height="80" />
+  <img src="https://github.com/lokeshazad10/lokeshazad10/blob/main/assets/claude.webp" alt="claude" width="80" height="80"/>
+  <img src="https://github.com/lokeshazad10/lokeshazad10/blob/main/assets/gemini.png" alt="gemini" width="80" height="80"/>
+  <img src="https://github.com/lokeshazad10/lokeshazad10/blob/main/assets/deepseek.webp" alt="deepseek" width="80" height="80"/>
+  <img src="https://github.com/lokeshazad10/lokeshazad10/blob/main/assets/perplexity.png" alt="perplexity" width="80" height="80"/>
+  <img src="https://github.com/lokeshazad10/lokeshazad10/blob/main/assets/grok.webp" alt="grok" width="80" height="80"/>
+  <img src="https://github.com/lokeshazad10/lokeshazad10/blob/main/assets/meta.png" alt="meta" width="80" height="80"/>&nbsp;&nbsp;&nbsp;<br/>
+  <img src="https://github.com/lokeshazad10/lokeshazad10/blob/main/assets/llm-chatgpt.png" alt="llm" width="80" height="80"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/lokeshazad10/lokeshazad10/blob/main/assets/mcp-ai.png" alt="mcp" width="80" height="80"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/lokeshazad10/lokeshazad10/blob/main/assets/omni-ai.png" alt="omni" width="80" height="80"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/lokeshazad10/lokeshazad10/blob/main/assets/gemini-ai.webp" alt="gemini ai" width="80" height="80"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/lokeshazad10/lokeshazad10/blob/main/assets/claude-opus.png" alt="claude opus" width="80" height="80"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/lokeshazad10/lokeshazad10/blob/main/assets/claude-ai.png" alt="claude ai" width="80" height="80"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/lokeshazad10/lokeshazad10/blob/main/assets/chatgpt-copilot.png" alt="copilot" width="80" height="80"/>&nbsp;&nbsp;&nbsp;
+</p>
+
 <h3 align="center">Programming Languages</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;
